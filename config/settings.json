@@ -1,11 +1,11 @@
 {
-    "cartTitle": "CLOTH",
-    "cartDescription": "expressCart",
+    "cartTitle": "Kasumbal",
+    "cartDescription": "Kasumbal",
     "cartLogo": "",
     "baseUrl": "http://localhost:1111",
-    "emailHost": "smtp-mail.outlook.com",
-    "emailPort": 587,
-    "emailSecure": false,
+    "emailHost": "smtp.gmail.com",
+    "emailPort": 465,
+    "emailSecure": true,
     "emailUser": "Kasumbaltrendz22@gmail.com",
     "emailPassword": "kasumbal22",
     "emailAddress": "Kasumbaltrendz22@gmail.com",
@@ -21,6 +21,6 @@
     "customCss": ".footer{padding-top: 5px;}",
     "currencySymbol": "£",
     "paymentGateway": "stripe",
-    "databaseConnectionString": "mongodb://Kasumbal:Kasumbal@123@ds215633.mlab.com:15633/kasumbal",
+    "databaseConnectionString": "mongodb://arkdbuser:Qwe%4012345@ds257241.mlab.com:57241/arktest",
     "theme": "Cloth"
 }
