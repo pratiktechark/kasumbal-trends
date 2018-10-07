@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed0c97f3-438b-457b-bc6f-d1392c1dfbb5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/settings.json" afterPath="$PROJECT_DIR$/config/settings.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/settings.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -107,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-842">
-              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            <state relative-caret-position="102">
+              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -131,8 +130,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config/stripe.json" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/config/settings.json" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -228,12 +227,12 @@
       <workItem from="1538213522565" duration="2390000" />
       <workItem from="1538546359235" duration="63000" />
       <workItem from="1538884487929" duration="347000" />
-      <workItem from="1538889193196" duration="2504000" />
+      <workItem from="1538889193196" duration="3506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5304000" />
+    <option name="totallyTimeSpent" value="6306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -538,18 +537,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-842">
-          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/settings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="96" lean-forward="false" selection-start-line="23" selection-start-column="96" selection-end-line="23" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>

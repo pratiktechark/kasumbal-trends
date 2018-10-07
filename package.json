@@ -4,7 +4,7 @@
   "description": "A fully functioning Node.js shopping cart with Stripe, PayPal and Authorize.net payments.",
   "private": false,
   "scripts": {
-    "start": "node app.js",
+    "start": "npm install && node app.js",
     "deploy": "gulp deploy",
     "test": "ava test/**/*.js --verbose"
   },
@@ -41,6 +41,7 @@
     "sitemap": "^1.6.0",
     "strip-bom": "^3.0.0",
     "stripe": "^5.4.0",
+    "mongodb-uri": "^0.9.7",
     "uglifycss": "0.0.27"
   },
   "devDependencies": {
