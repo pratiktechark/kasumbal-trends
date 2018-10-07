@@ -39,7 +39,7 @@ The easiest way to get up and running is using Docker. Once the Docker CLI is in
 
 ### Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrvautin/expressCart)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pratiktechark/kasumbal-trends.git)
 
 > Note: When deploying to Heroku you will need to configure your external MongoDB either on your own server or a hosted service on mLab, AWS etc.
 
